@@ -6,6 +6,6 @@ Repositorio que contiene información sobre mi labor como Ejecutor Técnico (Ins
 https://drive.google.com/drive/folders/1pTtReuXaFk8rBycn2WgoggHEJl-jqS-A?usp=sharing
 
 
-Orienté 9 bootcamps (2 análisis de datos, 7 inteligencia artificial) formando estudiantes en las áreas de análisis de datos e IA en diferentes subniveles: básico, intermedio y avanzado. 
+Orienté 9 bootcamps (2 de análisis de datos y 7 de inteligencia artificial) formando estudiantes en las áreas de análisis de datos e IA en diferentes subniveles: básico, intermedio y avanzado. 
 
-Además participé como mentor, jurado y evaluador de equipos de 10 hackathones organizadas por la Universidad Tecnológica de Pereira y apoyadas por el Ministerio TIC, eventos híbridos (virtuales/presenciales) llevados a cabo durante el año 2024 en los departamentos de Cauca y Nariño.
+Además participé como mentor, jurado y evaluador de equipos en 10 hackathones organizadas por la Universidad Tecnológica de Pereira y apoyadas por el Ministerio TIC, eventos híbridos (virtuales/presenciales) llevados a cabo durante el año 2024 en los departamentos de Cauca y Nariño.
